@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/interactive-card-details-form-2x8rMnCGK8
 - Live Site URL: https://polite-mermaid-c74e76.netlify.app/
 
 ## My process
