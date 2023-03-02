@@ -31,10 +31,12 @@ Users should be able to:
 
 ### Screenshot
 
+![Screenshot 2023-03-02 at 22-21-50 Frontend Mentor Interactive card details form](https://user-images.githubusercontent.com/69382363/222497377-98df1c36-5290-43f2-8418-407a42e591b3.png)
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://polite-mermaid-c74e76.netlify.app/
 
 ## My process
 
